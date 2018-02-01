@@ -35,6 +35,7 @@ class PostsNew extends Component{
                    label="Post Content"
                    name="content"
                    component={this.renderField}
+
                />
            </form>
         );
