@@ -11,6 +11,8 @@ export default function (state = INITIAL_STATE, action) {
             // console.log(action.payload.data); // [ post1, post2 ]
             // { 4: post }
             return { ...state, all: action.payload.data };
+        case FETCH_POST:
+            return { ...state, post: action.payload.data };
         default:
             return state;
     }
