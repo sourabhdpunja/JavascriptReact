@@ -23,6 +23,7 @@ class PostsIndex extends Component {
                         <strong>{post.title}</strong>
                     </Link>
                 </li>
+                
             );
         });
     }
@@ -40,6 +41,7 @@ class PostsIndex extends Component {
                 <ul className="list-group">
                     {this.renderPosts()}
                 </ul>
+                <li><Link to="posts/new" activeStyle={{ color: 'red' }}>About</Link></li>
             </div>
         );
     }

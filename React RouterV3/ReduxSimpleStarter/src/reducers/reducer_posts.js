@@ -1,7 +1,8 @@
 /**
  * Created by Sourabh Punja on 1/31/2018.
  */
-import { FETCH_POSTS } from '../actions/index';
+import { FETCH_POSTS,FETCH_POST } from '../actions/index';
+
 
 const INITIAL_STATE ={ all: [], post: null };
 

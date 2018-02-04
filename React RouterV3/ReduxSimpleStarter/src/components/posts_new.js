@@ -1,7 +1,7 @@
 /**
  * Created by Sourabh Punja on 1/31/2018.
  */
-import React, { Component } from 'react';
+import React, { Component, PropTypes } from 'react';
 import { Field, reduxForm } from 'redux-form';
 import { createPost } from '../actions/index';
 import { Link } from 'react-router'
