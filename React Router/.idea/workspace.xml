@@ -18,19 +18,20 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/actions/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+            <state relative-caret-position="-189">
+              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="posts_show.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="posts_show.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/components/posts_show.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="23" column="63" lean-forward="false" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
+                <element signature="n#!!doc" expanded="true" />
                 <element signature="e#49#90#0" expanded="true" />
               </folding>
             </state>
@@ -52,7 +53,7 @@
       <file leaf-file-name="posts_new.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/components/posts_new.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="302">
               <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -89,13 +90,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reducer_posts.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="reducer_posts.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/reducers/reducer_posts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+            <state relative-caret-position="153">
+              <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
               <folding>
-                <element signature="e#50#90#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#50#114#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,10 +130,10 @@
         <option value="$PROJECT_DIR$/ReduxSimpleStarter/style/style.css" />
         <option value="$PROJECT_DIR$/ReduxSimpleStarter/src/components/posts_new.js" />
         <option value="$PROJECT_DIR$/ReduxSimpleStarter/src/index.js" />
-        <option value="$PROJECT_DIR$/ReduxSimpleStarter/src/actions/index.js" />
-        <option value="$PROJECT_DIR$/ReduxSimpleStarter/src/reducers/reducer_posts.js" />
         <option value="$PROJECT_DIR$/ReduxSimpleStarter/src/components/posts_index.js" />
         <option value="$PROJECT_DIR$/ReduxSimpleStarter/src/components/posts_show.js" />
+        <option value="$PROJECT_DIR$/ReduxSimpleStarter/src/actions/index.js" />
+        <option value="$PROJECT_DIR$/ReduxSimpleStarter/src/reducers/reducer_posts.js" />
       </list>
     </option>
   </component>
@@ -379,15 +381,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1517684588005</updated>
-      <workItem from="1517684589674" duration="18718000" />
+      <workItem from="1517684589674" duration="22094000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18718000" />
+    <option name="totallyTimeSpent" value="22094000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -427,31 +429,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/components/posts_new.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#50#91#0" expanded="true" />
-            <marker date="1517714698562" expanded="true" signature="1188:1845" ph="..." />
-            <marker date="1517714698562" expanded="true" signature="1211:1350" ph="..." />
-            <marker date="1517714698562" expanded="true" signature="1373:1513" ph="..." />
-            <marker date="1517714698562" expanded="true" signature="1536:1676" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/reducers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -462,11 +439,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/actions/index.js">
+    <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/components/posts_show.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#49#90#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -481,22 +461,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/reducers/reducer_posts.js">
+    <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/components/posts_new.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        <state relative-caret-position="302">
+          <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
           <folding>
-            <element signature="e#50#90#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#50#91#0" expanded="true" />
+            <marker date="1517714698562" expanded="true" signature="1188:1845" ph="..." />
+            <marker date="1517714698562" expanded="true" signature="1211:1350" ph="..." />
+            <marker date="1517714698562" expanded="true" signature="1373:1513" ph="..." />
+            <marker date="1517714698562" expanded="true" signature="1536:1676" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/components/posts_show.js">
+    <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/actions/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="23" column="63" lean-forward="false" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+        <state relative-caret-position="-189">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#49#90#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReduxSimpleStarter/src/reducers/reducer_posts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#50#114#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,11 +1,13 @@
 /**
  * Created by Sourabh Punja on 1/31/2018.
  */
-import { FETCH_POSTS } from '../actions'
+import { FETCH_POSTS,FETCH_POST, DELETE_POST } from '../actions'
 import _ from 'lodash'
 
 export default function (state = {}, action) {
     switch (action.type) {
+        case DELETE_POST:
+            return _.omit(state, action.payload);
         case FETCH_POSTS:
             // console.log(action.payload.data); // [ post1, post2 ]
             // { 4: post }
